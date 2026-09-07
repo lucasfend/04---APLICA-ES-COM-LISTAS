@@ -36,7 +36,6 @@
         android:layout_marginTop="8dp"
         android:text="Add Movie" />
 
-    <!-- A lista que vai exibir os filmes -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvMovies"
         android:layout_width="match_parent"
